@@ -1,6 +1,7 @@
 # Real-Time Chat Application
 
 I developed a real-time chat application which allowed me to explore and implement a variety of modern web technologies. The application enables multiple users to join a chat room and exchange messages instantly, with a simple interface rendered on the server side and updated dynamically in real-time.
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b6897a31-2b83-472d-8c03-599a40e07be2" />
 
 ## Technologies used
